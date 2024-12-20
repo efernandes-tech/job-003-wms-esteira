@@ -1,0 +1,19 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <tem:SendCarton>
+            <tem:MSG_ID>10422861</tem:MSG_ID>
+            <tem:CARTON>00000043000003096445</tem:CARTON>
+            <tem:CARTON_TYPE>3</tem:CARTON_TYPE>
+            <tem:ORDER/>
+            <tem:ORDER_TYPE/>
+            <tem:LEVEL_CODE/>
+            <tem:SUBLEVEL_CODE/>
+            <tem:CARRIER_CODE/>
+            <tem:ZIP_CODE/>
+            <tem:EXIT_LINE/>
+            <tem:WMS_ID>464</tem:WMS_ID>
+            <tem:QUANTITY>1</tem:QUANTITY>
+        </tem:SendCarton>
+    </soapenv:Body>
+</soapenv:Envelope>
